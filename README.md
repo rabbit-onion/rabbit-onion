@@ -12,6 +12,6 @@
 <a href="https://github.com/rabbit-onion/universe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabbit-onion&repo=universe&theme=nord" />
 </a>
-<a href="https://github.com/2migtyMt/diptyque">
+<a href="https://github.com/2mightyMt/diptyque">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2mightyMt&repo=diptyque&theme=nord" />
 </a>
