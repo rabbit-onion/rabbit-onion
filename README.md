@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&desc=Now%20loading:%20future%20frontend%20developer%20.%20.%20.&descAlignY=33&text=Hi,%20I'm%20Sarang%20Cheon!-nl-Welcome%20to%20my%20Github.&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&desc=Now%20loading:%20future%20frontend%20developer%20.%20.%20.&descAlignY=23&text=Hi,%20I'm%20Sarang%20Cheon!-nl-Welcome%20to%20my%20Github.&fontSize=40&fontAlignY=40&animation=twinkling)
 
 
 
