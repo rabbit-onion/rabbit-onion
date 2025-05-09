@@ -10,9 +10,11 @@
   </a>
 </div>
 
-<a href="https://github.com/rabbit-onion/universe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabbit-onion&repo=universe&theme=nord&description_lines_count=1" />
-</a>
-<a href="https://github.com/2mightyMt/diptyque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2mightyMt&repo=diptyque&theme=nord&description_lines_count=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/rabbit-onion/universe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rabbit-onion&repo=universe&theme=nord&description_lines_count=1" />
+  </a>
+  <a href="https://github.com/2mightyMt/diptyque">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2mightyMt&repo=diptyque&theme=nord&description_lines_count=1" />
+  </a>
+</div>
